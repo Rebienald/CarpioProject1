@@ -1,0 +1,433 @@
+
+        a{
+            color:black;
+            font-size: 30px;
+       
+        margin-top: 290px;
+       
+        }
+        .omsim{
+            font-size: 50px;
+            margin-left: 30px;
+        }
+        .letse{
+            font-size: 50px;
+            margin-left: 100px;
+        }
+        .sawana{
+            font-size: 3vh;
+        }
+        .wawawa{
+            font-size: 3vh;
+        }
+        .yokonapo{
+            font-size: 3vh;
+        
+        }
+    
+      
+    
+        html{
+           
+                font-family: 'Merriweather', serif;
+                text-shadow: none;
+                color:black !important;
+                -webkit-font-smoothing: antialiased;
+                -moz-osx-font-smoothing: grayscale;
+            
+        }
+        script{
+            
+                font-family: 'Times New Roman', Times, serif;
+            
+        }
+        .ewanko{
+        text-align: left;
+        }
+        .plsayokona{
+      text-align: left ;
+        }
+        .cent{
+            text-align: center;
+            font-size: 3vh;
+        }
+        .woah{
+            margin-bottom: 20px !important ;
+        }
+        .mama{
+            border-radius: 20px;
+            width: 500px;
+            display: block;
+            margin-bottom:30px !important;
+        
+        }
+        .yoko{
+            font-size: 3vh;
+    
+        }
+        .jusq{
+            font-size: 50px;
+            margin-left: 0px;
+            text-align: center;
+        }
+        .feelings{
+            font-size: 3vh;
+        }
+        .ewan{
+            margin-top: 90px;
+        }
+        tr{
+            margin-top: 100px;
+        }
+    
+        .header {
+            text-align: center;
+            margin-left: 0px;
+            font-size: 50px;
+        }
+        
+        .sigesige {
+            font-size: 3vh; 
+         overflow: auto;
+        }
+    
+        
+        .main-title {
+            font-size: 50px;
+            text-align: center;
+            margin-left: 0px;
+        }
+        
+        .content-text {
+            font-size: 16px;
+        }
+    
+        
+        
+         
+        table {
+            border-collapse: collapse; 
+            width: auto; 
+           margin: 20px;
+           text-align: left;
+           max-height: 100vh;
+        }
+        
+        td {
+            
+            padding: 0; 
+            border-spacing: 0; 
+            vertical-align: top;
+          
+        }
+        
+        div {
+            border: px solid rgb(0, 0, 0); 
+            border-radius: 20px; 
+            box-sizing: border-box; 
+           
+            
+            
+        }
+        h6{
+            color: black!important;
+        }
+        #header {
+            height: 120px;
+            width: 1110px;
+            background-color: rgb(255, 255, 255);        
+            margin-right: 20px;
+            margin-left: 20px;
+    
+            color: black!important;
+    
+            min-width: 1%;
+    
+            
+            
+        }
+        
+        #options {
+            max-height: 1000vh;
+            max-width: 500px;
+            height: 75vh;
+            background-color: rgba(255, 255, 255, 0); /* Fully transparent background */
+            backdrop-filter: blur(50px); /* Apply the blur effect */
+    
+            margin: 20px;
+            padding-top: 4px;
+            margin-left: 35px;
+            text-align: left;
+            overflow-Y:auto;
+            overflow-x: hidden;
+            padding-bottom: 20px;
+    
+        }        
+        
+        #result {
+            overflow: auto;
+            height: 75vh;
+            max-height: 220vh;
+            width: 700px;
+            
+            background-color: rgba(255, 255, 255, 0); /* Fully transparent background */
+            backdrop-filter: blur(50px); /* Apply the blur effect */
+            
+            margin: 20px;
+            
+        }
+        body{
+            background-image: url('https://i.pinimg.com/originals/1f/0c/ca/1f0cca0160271748e0c29ac359779fc1.jpg');
+        background-repeat: no-repeat;
+        background-size: 250%;
+    
+    
+    
+    
+        background-position: center;
+        filter: none;
+        margin: 0; /* Remove default margins */
+        padding: 0; /* Remove default padding */
+        height: 100vh; /* Full viewport height for the background */
+        display: grid; /* Use grid to center */
+        place-items: center; /* Center everything in the body */
+    
+        }
+    
+    
+    
+    
+    
+    
+        p{
+            text-align: left; /* Centers the text inside the header */
+            font-size: 30px;
+            color: white;
+            margin-left: 10px;
+        }
+     .Cont1 h1{color: black;
+    font-size:35px;}
+     .Cont2 h1{color: black;
+        font-size:34px !important;
+    }
+    
+     .Cont3 h1{color: black;
+        font-size:35px !important;}
+    
+     .Cont4 h1{color: black;
+        font-size:50px !important;}
+    
+     .Cont5 h1{color: black;
+        font-size:55px!important;
+    ;}
+    
+     .Cont6 h1{color: black;
+        font-size:35px!important;}
+    
+     .Cont7 h1{color: black;
+        font-size:35px!important;}
+      
+    
+        .Cont1 {
+           
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            width: 300px;
+            height: 200px;
+            justify-content: center; /* Horizontal alignment */
+            align-items: center;    /* Vertical alignment */
+            text-align: center;     
+          margin-bottom: 45px;
+          
+            font-size: 9px;
+           text-align: start;
+            margin-left: 10px;
+        }
+    
+            .Cont2 h1{
+              font-size: 20px;}
+             
+        img{
+       margin-bottom: 50px !important;
+        }
+            
+            .Cont7{
+                border: 10px;
+                background-color: rgb(255, 255, 255);        
+            
+            width: 300px;
+            height: 200px;
+            justify-content: center; /* Horizontal alignment */
+            align-items: center;    /* Vertical alignment */
+            text-align: center;     
+    
+            margin-bottom: 45px;
+            margin-left: 10px;
+            
+            
+            }
+             .Cont7 h1{
+                font-size: 27PX;
+             }
+        .Cont6{
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            width: 300px;
+            height: 200px;
+      justify-content: center; /* Horizontal alignment */
+      align-items: center;    /* Vertical alignment */
+      text-align: center;     
+    
+            margin-bottom: 45px;
+            margin-left: 10px;
+            
+        }
+        p{
+            color:black !important;
+        }
+        h2{
+            color:black !important;
+        }
+        .Cont6 h1{
+            font-size: 25PX;
+        }
+             .Cont2 {
+           
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            width: 300px;
+            
+            height: 200px;
+            justify-content: center; /* Horizontal alignment */
+            align-items: center;    /* Vertical alignment */
+            text-align: center;     
+    
+            margin-bottom: 45px;
+            margin-left: 10px;
+        
+        }
+        .Cont2 p{
+            font-size: 5px;
+        }
+        .Cont3 h1{
+            font-size: 20px;
+        }
+        .Cont3 {
+           
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            width: 300px;
+    
+            height: 200px;
+            justify-content: center; /* Horizontal alignment */
+            align-items: center;    /* Vertical alignment */
+            text-align: center;     
+    
+            margin-bottom: 45px;
+    
+            margin-left: 10px;
+        }
+        
+        .Cont4 {
+           
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            margin-bottom: 45px;
+            width: 300px;
+           
+            height: 200px;
+            justify-content: center; /* Horizontal alignment */
+            align-items: center;    /* Vertical alignment */
+            text-align: center;     
+    
+            margin-left: 10px;
+        }
+        .Cont5 {
+           
+            border: 10px;
+            background-color: rgb(255, 255, 255);        
+            margin-bottom: 45px;
+            height: 20px;
+            width: 300px;
+            text-align: center;
+           
+            display: flex;
+    
+            height: 200px;
+      justify-content: center; /* Horizontal alignment */
+      align-items: center;    /* Vertical alignment */
+      text-align: center;     
+    
+            margin-left: 10px;
+        }
+        h1{
+            text-align: left;
+            color: rgb(0, 0, 0);
+            margin-left: 10px;
+            
+            
+        }
+        h2{
+            text-align: justify;
+            color:black !important;
+            margin-left: 40px;
+        }
+        .Cont1:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;}
+        .Cont2:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;
+        }
+        .Cont3:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;
+    
+        }
+        .Cont4:hover{
+            background-color:  rgb(150, 149, 149); 
+            color:black;
+        }
+        .Cont5:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;
+        }
+        .Cont6:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;
+        }
+        .Cont7:hover{
+            background-color:  rgb(150, 149, 149);
+            color:black;
+        }
+        h6{
+            text-align: center; /* Centers the text inside the header */
+            font-size: 60px;
+            color: rgb(0, 0, 0);
+            margin-top: 25px;
+            padding-top: 20px;
+        }
+        img{
+            border-radius: 20px;
+            width: 500px;
+            display: block;
+            margin: auto;
+        }
+        h2{
+            color:black !important;
+        }
+        p{
+            padding-left:15px ;
+            padding-right: 15px;
+            color:black!important;
+            
+        }
+    #hays {
+            font-size: 30px;
+           
+            margin-top: 290px;
+           
+            
+            
+        }
+
